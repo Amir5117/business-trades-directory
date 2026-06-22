@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Design tokens mirrored as CSS variables (clean white canvas + sky-blue accent). */
+:root {
+  --tbt-primary: #0ea5e9;
+  --tbt-primary-ink: #ffffff;
+  --tbt-bg: #ffffff;
+  --tbt-surface: #f8fafc;
+  --tbt-text: #334155;
+  --tbt-ink: #0f172a;
+  --tbt-muted: #64748b;
+  --tbt-border: #e2e8f0;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-body antialiased;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  h1, h2, h3, h4 {
+    @apply text-ink font-semibold tracking-tight;
+  }
+  ::selection {
+    background: rgba(14, 165, 233, 0.18);
+    color: #0f172a;
+  }
+}
+
+@layer components {
+  .container-tbt {
+    @apply mx-auto w-full max-w-content px-4 sm:px-6 lg:px-8;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-brand-500 px-6 py-3
+           font-semibold text-white shadow-cta transition-all duration-300 ease-in-out
+           hover:-translate-y-0.5 hover:bg-brand-600 hover:shadow-lg
+           focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-500;
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border-2 border-brand-500 px-6 py-3
+           font-semibold text-brand-600 transition-all duration-300 ease-in-out
+           hover:-translate-y-0.5 hover:bg-brand-50 hover:shadow-md
+           focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-500;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-line px-6 py-3
+           font-semibold text-ink transition-colors hover:border-brand-300 hover:text-brand-700;
+  }
+  .card {
+    @apply rounded-2xl border border-line bg-white p-5 shadow-card transition
+           hover:border-brand-300 hover:shadow-md;
+  }
+  .field {
+    @apply w-full rounded-full border border-line bg-white px-5 py-3 text-ink placeholder:text-muted
+           outline-none transition focus:border-brand-400 focus:ring-2 focus:ring-brand-200;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   ACF rich-text enhancements (applied to HTML injected via RichHtml).
+   These target classes added by lib enhanceAcfHtml(), so they must be plain
+   CSS (not Tailwind utilities) to survive the production purge.
+   --------------------------------------------------------------------------- */
+.prose ul.tbt-list { list-style: none; margin-left: 0; padding-left: 0; }
+.prose ul.tbt-list > li {
+  position: relative;
+  padding-left: 2.15rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+/* Markers sit inside a clean, small circular chip so they read as sharp anchor points. */
+.prose ul.tbt-list > li::before {
+  position: absolute;
+  left: 0;
+  top: 0.12em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 9999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1;
+}
+.prose ul.tbt-pros > li::before {
+  content: "\2713";              /* ✓ */
+  color: #0369a1;                /* deep sky-blue ink */
+  background: rgba(14, 165, 233, 0.14);
+}
+.prose ul.tbt-cons > li::before {
+  content: "\2715";              /* ✕ */
+  color: #dc2626;                /* red */
+  background: rgba(220, 38, 38, 0.12);
+}
+
+/* ---------------------------------------------------------------------------
+   Section separators — ultra-clean, low-contrast hairline used between the
+   main tool-page sections (Overview → Alternatives → Reviews → FAQs).
+   --------------------------------------------------------------------------- */
+.tbt-section-sep {
+  border-top: 1px solid rgba(14, 165, 233, 0.14);
+  padding-top: 3rem;
+}

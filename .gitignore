@@ -1,0 +1,28 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# next.js
+/.next/
+/out/
+/build
+next-env.d.ts
+
+# env
+.env
+.env*.local
+
+# python tooling
+scripts/__pycache__/
+scripts/.venv/
+*.pyc
+
+# OS
+.DS_Store
+
+# IMPORTANT: never commit the legacy source. It lives one level up and is read-only.
+../legacy-wp-data/
+
+# Generated media that is copied from legacy uploads (optional: keep out of git, serve from CDN)
+# /public/uploads/

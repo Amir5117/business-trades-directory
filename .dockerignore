@@ -1,0 +1,14 @@
+# Future Docker build hygiene (no effect on localhost / Vercel today).
+# Keeps the eventual `output: 'standalone'` image small and the legacy source out of context.
+node_modules
+.next
+.git
+.env
+.env*.local
+scripts/.venv
+scripts/__pycache__
+**/*.pyc
+# never copy the read-only legacy source into an image
+../legacy-wp-data
+npm-debug.log*
+.DS_Store

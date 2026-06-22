@@ -1,0 +1,7 @@
+[
+  { "source": "/", "destination": "/", "permanent": true, "type": "page" },
+  { "source": "/deel-review/", "destination": "/tools/deel", "permanent": true, "type": "businesstool" },
+  { "source": "/category/eor-payroll/", "destination": "/category/eor-payroll", "permanent": true, "type": "page" },
+  { "source": "/getyourguide-lead-thank-you-page/", "destination": "/go/deel/thank-you", "permanent": true, "type": "page" },
+  { "source": "/about-us/", "destination": "/about", "permanent": true, "type": "page" }
+]

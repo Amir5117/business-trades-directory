@@ -1,0 +1,44 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { getAllPosts } from "@/lib/content";
+
+export const metadata: Metadata = {
+  title: "Blog",
+  description: "Guides, comparisons and insights on the best online business tools.",
+  alternates: { canonical: "/blogs" },
+};
+
+export default function BlogIndex() {
+  const posts = getAllPosts();
+  return (
+    <section className="container-tbt py-12">
+      <h1 className="text-3xl font-bold text-ink">Blog</h1>
+      <p className="mt-2 text-muted">Guides, comparisons and insights on the best online business tools.</p>
+      {posts.length === 0 ? (
+        <p className="mt-8 text-muted">No posts published yet.</p>
+      ) : (
+        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {posts.map((p) => (
+            <Link key={p.slug} href={`/blogs/${p.slug}`} className="card flex flex-col gap-3">
+              {p.frontmatter.featured_image ? (
+                <Image
+                  src={p.frontmatter.featured_image}
+                  alt={p.frontmatter.title}
+                  width={480}
+                  height={270}
+                  className="h-40 w-full rounded-lg object-cover"
+                />
+              ) : null}
+              <h2 className="text-lg font-semibold text-ink">{p.frontmatter.title}</h2>
+              {p.frontmatter.seo?.description ? (
+                <p className="line-clamp-3 text-sm text-muted">{p.frontmatter.seo.description}</p>
+              ) : null}
+              <span className="mt-auto text-sm font-semibold text-brand-600">Read more →</span>
+            </Link>
+          ))}
+        </div>
+      )}
+    </section>
+  );
+}

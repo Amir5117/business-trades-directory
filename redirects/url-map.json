@@ -1,0 +1,5612 @@
+[
+  {
+    "source": "/host4geeks-review/",
+    "destination": "/tools/host4geeks-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tiktok-for-business-review/",
+    "destination": "/tools/tiktok-for-business-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/notta-ai-review/",
+    "destination": "/tools/notta-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/textcortex-review/",
+    "destination": "/tools/textcortex-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fireflies-ai-review/",
+    "destination": "/tools/fireflies-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bigrock-review/",
+    "destination": "/tools/bigrock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/liquid-web-review/",
+    "destination": "/tools/liquid-web-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bluehost-review/",
+    "destination": "/tools/bluehost-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/greengeeks-review/",
+    "destination": "/tools/greengeeks-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/interserver-review/",
+    "destination": "/tools/interserver-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hostsoch-review/",
+    "destination": "/tools/hostsoch-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/webhostingpad-review/",
+    "destination": "/tools/webhostingpad-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/epik-review/",
+    "destination": "/tools/epik-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/altushost-review/",
+    "destination": "/tools/altushost-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dreamhost-review/",
+    "destination": "/tools/dreamhost-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ecwid-review/",
+    "destination": "/tools/ecwid-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/samcart-review/",
+    "destination": "/tools/samcart-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/service-fusion-review/",
+    "destination": "/tools/service-fusion-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/deliverr-review/",
+    "destination": "/tools/deliverr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rakuten-review/",
+    "destination": "/tools/rakuten-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/livestorm-review/",
+    "destination": "/tools/livestorm-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/easywebinar-review/",
+    "destination": "/tools/easywebinar-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/livechat-review/",
+    "destination": "/tools/livechat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/webinarninja-review/",
+    "destination": "/tools/webinarninja-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/buzzsprout-review/",
+    "destination": "/tools/buzzsprout-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/supermetrics-review/",
+    "destination": "/tools/supermetrics-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/transferwise-review/",
+    "destination": "/tools/transferwise-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/webnode-review/",
+    "destination": "/tools/webnode-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ucraft-review/",
+    "destination": "/tools/ucraft-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fastestvpn-review/",
+    "destination": "/tools/fastestvpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vpn-ac-review/",
+    "destination": "/tools/vpn-ac-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/templatemonster-review/",
+    "destination": "/tools/templatemonster-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/purevpn-review/",
+    "destination": "/tools/purevpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/site123-review/",
+    "destination": "/tools/site123-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/surfshark-review/",
+    "destination": "/tools/surfshark-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cssigniter-review/",
+    "destination": "/tools/cssigniter-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ivacy-vpn-review/",
+    "destination": "/tools/ivacy-vpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rocketlink-review/",
+    "destination": "/tools/rocketlink-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/stencil-review/",
+    "destination": "/tools/stencil-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zubtitle-review/",
+    "destination": "/tools/zubtitle-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/invideo-review/",
+    "destination": "/tools/invideo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/shift-review/",
+    "destination": "/tools/shift-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lessaccounting-review/",
+    "destination": "/tools/lessaccounting-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/time-doctor-review/",
+    "destination": "/tools/time-doctor-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/proxy-seller-review/",
+    "destination": "/tools/proxy-seller-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/exoclick-review/",
+    "destination": "/tools/exoclick-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/highproxies-review/",
+    "destination": "/tools/highproxies-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mailtag-review/",
+    "destination": "/tools/mailtag-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/infatica-review/",
+    "destination": "/tools/infatica-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pabbly-review/",
+    "destination": "/tools/pabbly-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/nullbox-review/",
+    "destination": "/tools/nullbox-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/woodpecker-review/",
+    "destination": "/tools/woodpecker-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/depositphotos-review/",
+    "destination": "/tools/depositphotos-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/landingi-review/",
+    "destination": "/tools/landingi-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/crowdfire-review/",
+    "destination": "/tools/crowdfire-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/socialpilot-review/",
+    "destination": "/tools/socialpilot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/meetedgar-review/",
+    "destination": "/tools/meetedgar-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/social-searcher-review/",
+    "destination": "/tools/social-searcher-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/digisigner-review/",
+    "destination": "/tools/digisigner-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/awario-review/",
+    "destination": "/tools/awario-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wordable-review/",
+    "destination": "/tools/wordable-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/leaddyno-review/",
+    "destination": "/tools/leaddyno-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/promorepublic-review/",
+    "destination": "/tools/promorepublic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/travelpayouts-review/",
+    "destination": "/tools/travelpayouts-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tubebuddy-review/",
+    "destination": "/tools/tubebuddy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/serpstat-review/",
+    "destination": "/tools/serpstat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/onestream-review/",
+    "destination": "/tools/onestream-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zutrix-review/",
+    "destination": "/tools/zutrix-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wishpond-review/",
+    "destination": "/tools/wishpond-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/seobility-review/",
+    "destination": "/tools/seobility-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hellobonsai-review/",
+    "destination": "/tools/hellobonsai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gist-review/",
+    "destination": "/tools/gist-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/help-scout-review/",
+    "destination": "/tools/help-scout-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fiverr-review/",
+    "destination": "/tools/fiverr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/textmagic-review/",
+    "destination": "/tools/textmagic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kikoff-review/",
+    "destination": "/tools/kikoff-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/webshare-review/",
+    "destination": "/tools/webshare-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sentrypc-review/",
+    "destination": "/tools/sentrypc-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hubspot-review/",
+    "destination": "/tools/hubspot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pdf-expert-review/",
+    "destination": "/tools/pdf-expert-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/helium-10-review/",
+    "destination": "/tools/helium-10-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/motion-elements-review/",
+    "destination": "/tools/motion-elements-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/coreldraw-review/",
+    "destination": "/tools/coreldraw-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wevideo-review/",
+    "destination": "/tools/wevideo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/headway-app-review/",
+    "destination": "/tools/headway-app-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wincher-review/",
+    "destination": "/tools/wincher-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/capcut-review/",
+    "destination": "/tools/capcut-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/digital-ocean-review/",
+    "destination": "/tools/digital-ocean-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zendrop-review/",
+    "destination": "/tools/zendrop-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/awesomic-review/",
+    "destination": "/tools/awesomic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vodien-review/",
+    "destination": "/tools/vodien-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mindmanager-review/",
+    "destination": "/tools/mindmanager-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dochub-review/",
+    "destination": "/tools/dochub-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hide-me-vpn-review/",
+    "destination": "/tools/hide-me-vpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sitechecker-pro-review/",
+    "destination": "/tools/sitechecker-pro-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lonely-planet-review/",
+    "destination": "/tools/lonely-planet-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/coohom-review/",
+    "destination": "/tools/coohom-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/homestyler-review/",
+    "destination": "/tools/homestyler-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/inmotion-hosting-review/",
+    "destination": "/tools/inmotion-hosting-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/easyship-review/",
+    "destination": "/tools/easyship-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/renderforest-review/",
+    "destination": "/tools/renderforest-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/getsmarter-review/",
+    "destination": "/tools/getsmarter-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/clickfunnels-review/",
+    "destination": "/tools/clickfunnels-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/writesonic-review/",
+    "destination": "/tools/writesonic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/jackery-review/",
+    "destination": "/tools/jackery-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/nexcess-review/",
+    "destination": "/tools/nexcess-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/miro-review/",
+    "destination": "/tools/miro-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/apollo-review/",
+    "destination": "/tools/apollo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/signwell-review/",
+    "destination": "/tools/signwell-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/iproyal-review/",
+    "destination": "/tools/iproyal-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/stel-order-review/",
+    "destination": "/tools/stel-order-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/streamyard-review/",
+    "destination": "/tools/streamyard-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/phrasly-ai-review/",
+    "destination": "/tools/phrasly-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smart-dns-proxy-review/",
+    "destination": "/tools/smart-dns-proxy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fliki-ai-review/",
+    "destination": "/tools/fliki-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/octoparse-review/",
+    "destination": "/tools/octoparse-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sendx-review/",
+    "destination": "/tools/sendx-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/topaz-labs-review/",
+    "destination": "/tools/topaz-labs-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wondershare-review/",
+    "destination": "/tools/wondershare-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pdffiller-review/",
+    "destination": "/tools/pdffiller-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/leadpages-review/",
+    "destination": "/tools/leadpages-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zoho-review/",
+    "destination": "/tools/zoho-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/proxyscrape-review/",
+    "destination": "/tools/proxyscrape-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/captivate-review/",
+    "destination": "/tools/captivate-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sproutsocial-review/",
+    "destination": "/tools/sproutsocial-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/stardock-review/",
+    "destination": "/tools/stardock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/slider-revolution-review/",
+    "destination": "/tools/slider-revolution-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/builderall-review/",
+    "destination": "/tools/builderall-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/debutify-review/",
+    "destination": "/tools/debutify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/atlasvpn-review/",
+    "destination": "/tools/atlasvpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/memberpress-review/",
+    "destination": "/tools/memberpress-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kittl-review/",
+    "destination": "/tools/kittl-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/skillshare-review/",
+    "destination": "/tools/skillshare-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/signnow-review/",
+    "destination": "/tools/signnow-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hostinger-review/",
+    "destination": "/tools/hostinger-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dreamstime-review/",
+    "destination": "/tools/dreamstime-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/reportei-review/",
+    "destination": "/tools/reportei-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/videogen-review/",
+    "destination": "/tools/videogen-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pipedream-review/",
+    "destination": "/tools/pipedream-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/deel-review/",
+    "destination": "/tools/deel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dropified-review/",
+    "destination": "/tools/dropified-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pixelbin-review/",
+    "destination": "/tools/pixelbin-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tutor-lms-review/",
+    "destination": "/tools/tutor-lms-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/accuweb-hosting-review/",
+    "destination": "/tools/accuweb-hosting-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/elfsight-review/",
+    "destination": "/tools/elfsight-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/taskade-review/",
+    "destination": "/tools/taskade-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/duet-display-review/",
+    "destination": "/tools/duet-display-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/splashtop-review/",
+    "destination": "/tools/splashtop-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gumroad-review/",
+    "destination": "/tools/gumroad-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/thrivecart-review/",
+    "destination": "/tools/thrivecart-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tiktok-review/",
+    "destination": "/tools/tiktok-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/coolway-usa-review/",
+    "destination": "/tools/coolway-usa-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/proxy6-review/",
+    "destination": "/tools/proxy6-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/decodeage-review/",
+    "destination": "/tools/decodeage-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/1st-formations-review/",
+    "destination": "/tools/1st-formations-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/designfiles-review/",
+    "destination": "/tools/designfiles-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gravastar-review/",
+    "destination": "/tools/gravastar-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/global-healing-review/",
+    "destination": "/tools/global-healing-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/coofandy-review/",
+    "destination": "/tools/coofandy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dialpad-review/",
+    "destination": "/tools/dialpad-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/winzip-review/",
+    "destination": "/tools/winzip-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/snapmaker-review/",
+    "destination": "/tools/snapmaker-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/landbot-review/",
+    "destination": "/tools/landbot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ringconn-review/",
+    "destination": "/tools/ringconn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/filterbuy-review/",
+    "destination": "/tools/filterbuy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/babeside-review/",
+    "destination": "/tools/babeside-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vivosun-review/",
+    "destination": "/tools/vivosun-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cookieyes-review/",
+    "destination": "/tools/cookieyes-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/surveysparrow-review/",
+    "destination": "/tools/surveysparrow-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/decodo-review/",
+    "destination": "/tools/decodo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wecreat-review/",
+    "destination": "/tools/wecreat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gravity-forms-review/",
+    "destination": "/tools/gravity-forms-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uperfect-review/",
+    "destination": "/tools/uperfect-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zencastr-review/",
+    "destination": "/tools/zencastr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tenable-review/",
+    "destination": "/tools/tenable-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ownr-review/",
+    "destination": "/tools/ownr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/similarweb-review/",
+    "destination": "/tools/similarweb-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/netdepot-review/",
+    "destination": "/tools/netdepot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cognism-review/",
+    "destination": "/tools/cognism-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/adspower-review/",
+    "destination": "/tools/adspower-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/freshchat-review/",
+    "destination": "/tools/freshchat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/flippa-review/",
+    "destination": "/tools/flippa-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/airalo-review/",
+    "destination": "/tools/airalo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/get-your-guide-review/",
+    "destination": "/tools/get-your-guide-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/doba-review/",
+    "destination": "/tools/doba-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/spocket-review/",
+    "destination": "/tools/spocket-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/merlin-review/",
+    "destination": "/tools/merlin-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/take-app-review/",
+    "destination": "/tools/take-app-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/seamless-ai-review/",
+    "destination": "/tools/seamless-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aejuice-review/",
+    "destination": "/tools/aejuice-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/chatbase-review/",
+    "destination": "/tools/chatbase-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/braincert-review/",
+    "destination": "/tools/braincert-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/knack-review/",
+    "destination": "/tools/knack-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zerobounce-review/",
+    "destination": "/tools/zerobounce-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/trendspider-review/",
+    "destination": "/tools/trendspider-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uxcel-review/",
+    "destination": "/tools/uxcel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/nimbus-review/",
+    "destination": "/tools/nimbus-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kinsta-review-2/",
+    "destination": "/tools/kinsta-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cxl-review/",
+    "destination": "/tools/cxl-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rytr-review/",
+    "destination": "/tools/rytr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pond5-review/",
+    "destination": "/tools/pond5-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pipedrive-review/",
+    "destination": "/tools/pipedrive-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pngtree-review/",
+    "destination": "/tools/pngtree-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uplead-review/",
+    "destination": "/tools/uplead-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/engagebay-review/",
+    "destination": "/tools/engagebay-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/framer-review/",
+    "destination": "/tools/framer-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/expedia-review/",
+    "destination": "/tools/expedia-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/printful-review/",
+    "destination": "/tools/printful-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/toggl-track-review/",
+    "destination": "/tools/toggl-track-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/apex-hosting-review/",
+    "destination": "/tools/apex-hosting-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/torguard-review/",
+    "destination": "/tools/torguard-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bookbolt-review/",
+    "destination": "/tools/bookbolt-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gohighlevel-review/",
+    "destination": "/tools/gohighlevel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/callrail-review/",
+    "destination": "/tools/callrail-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/eleven-labs-review/",
+    "destination": "/tools/eleven-labs-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/365-data-science-review/",
+    "destination": "/tools/365-data-science-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smartlead-review/",
+    "destination": "/tools/smartlead-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/icontact-review/",
+    "destination": "/tools/icontact-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/1password-review/",
+    "destination": "/tools/1password-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/birch-review/",
+    "destination": "/tools/birch-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/campaigner-review/",
+    "destination": "/tools/campaigner-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fastmail-review/",
+    "destination": "/tools/fastmail-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/housecall-pro-review/",
+    "destination": "/tools/housecall-pro-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/later-review/",
+    "destination": "/tools/later-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/looka-review/",
+    "destination": "/tools/looka-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/murf-ai-review/",
+    "destination": "/tools/murf-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/openphone-review/",
+    "destination": "/tools/openphone-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/invidio-review/",
+    "destination": "/tools/invidio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/socialbee-review/",
+    "destination": "/tools/socialbee-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/surfer-seo-review/",
+    "destination": "/tools/surfer-seo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/freshdesk-review/",
+    "destination": "/tools/freshdesk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ai-ml-api-review/",
+    "destination": "/tools/ai-ml-api-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hemingway-review/",
+    "destination": "/tools/hemingway-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/webflow-review/",
+    "destination": "/tools/webflow-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/highlevel-review/",
+    "destination": "/tools/highlevel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/unbounce-review/",
+    "destination": "/tools/unbounce-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/practice-better-review/",
+    "destination": "/tools/practice-better-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smtp-review/",
+    "destination": "/tools/smtp-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/respond-io-review/",
+    "destination": "/tools/respond-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sendcloud-review/",
+    "destination": "/tools/sendcloud-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/simplepractice-review/",
+    "destination": "/tools/simplepractice-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cake-com-review/",
+    "destination": "/tools/cake-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/getresponse-review/",
+    "destination": "/tools/getresponse-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lightinthebox-review/",
+    "destination": "/tools/lightinthebox-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/thrive-themes-review/",
+    "destination": "/tools/thrive-themes-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lalal-review/",
+    "destination": "/tools/lalal-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/playht-review/",
+    "destination": "/tools/playht-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/klap-review/",
+    "destination": "/tools/klap-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/scalahosting-review/",
+    "destination": "/tools/scalahosting-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/learnworlds-review/",
+    "destination": "/tools/learnworlds-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fine-proxy-review/",
+    "destination": "/tools/fine-proxy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/onepage-review/",
+    "destination": "/tools/onepage-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/paperpal-review/",
+    "destination": "/tools/paperpal-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/influencity-review/",
+    "destination": "/tools/influencity-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/neuronwrite-review/",
+    "destination": "/tools/neuronwrite-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/truecoach-review/",
+    "destination": "/tools/truecoach-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hunter-io-review/",
+    "destination": "/tools/hunter-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mimir-review/",
+    "destination": "/tools/mimir-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/jumpseller-review/",
+    "destination": "/tools/jumpseller-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fineshare-review/",
+    "destination": "/tools/fineshare-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/localo-review/",
+    "destination": "/tools/localo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/nix-sensor-review/",
+    "destination": "/tools/nix-sensor-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tapfiliate-review/",
+    "destination": "/tools/tapfiliate-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/seed4-me-review/",
+    "destination": "/tools/seed4-me-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sendible-review/",
+    "destination": "/tools/sendible-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/2captcha-review/",
+    "destination": "/tools/2captcha-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mailercheck-review/",
+    "destination": "/tools/mailercheck-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/the-adventure-challenge-review/",
+    "destination": "/tools/the-adventure-challenge-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/flick-review/",
+    "destination": "/tools/flick-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/themify-review/",
+    "destination": "/tools/themify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/amiro-review/",
+    "destination": "/tools/amiro-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/eu-fossibot-review/",
+    "destination": "/tools/eu-fossibot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/carwow-review/",
+    "destination": "/tools/carwow-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vultr-review/",
+    "destination": "/tools/vultr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/riverside-review/",
+    "destination": "/tools/riverside-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lasso-review/",
+    "destination": "/tools/lasso-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/beautiful-ai-review/",
+    "destination": "/tools/beautiful-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/paymo-review/",
+    "destination": "/tools/paymo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kyssbag-review/",
+    "destination": "/tools/kyssbag-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/prospero-review/",
+    "destination": "/tools/prospero-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/distrokid-review/",
+    "destination": "/tools/distrokid-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/podbean-review/",
+    "destination": "/tools/podbean-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/carrd-review/",
+    "destination": "/tools/carrd-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cognifit-review/",
+    "destination": "/tools/cognifit-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/autods-review/",
+    "destination": "/tools/autods-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mubert-review/",
+    "destination": "/tools/mubert-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dolphin-anty-review/",
+    "destination": "/tools/dolphin-anty-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/creatify-review/",
+    "destination": "/tools/creatify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/flowlu-review/",
+    "destination": "/tools/flowlu-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/popcash-review/",
+    "destination": "/tools/popcash-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bookeo-review/",
+    "destination": "/tools/bookeo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/animoto-review/",
+    "destination": "/tools/animoto-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/penji-review/",
+    "destination": "/tools/penji-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aitable-ai-review/",
+    "destination": "/tools/aitable-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/surepayroll-review/",
+    "destination": "/tools/surepayroll-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/acast-review/",
+    "destination": "/tools/acast-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/adcreative-ai-review/",
+    "destination": "/tools/adcreative-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/castos-review/",
+    "destination": "/tools/castos-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/allimages-ai-review/",
+    "destination": "/tools/allimages-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/boast-io-review/",
+    "destination": "/tools/boast-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/designpickle-review/",
+    "destination": "/tools/designpickle-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/adalo-review/",
+    "destination": "/tools/adalo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/adcombo-review/",
+    "destination": "/tools/adcombo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/adguard-vpn-review/",
+    "destination": "/tools/adguard-vpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aipdf-review/",
+    "destination": "/tools/aipdf-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/alison-review/",
+    "destination": "/tools/alison-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/amenglish-review/",
+    "destination": "/tools/amenglish-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/anchor-review/",
+    "destination": "/tools/anchor-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/any-do-review/",
+    "destination": "/tools/any-do-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/arise-apparel-review/",
+    "destination": "/tools/arise-apparel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ausha-review/",
+    "destination": "/tools/ausha-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/blogify-review/",
+    "destination": "/tools/blogify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/blueshift-review/",
+    "destination": "/tools/blueshift-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/botsify-review/",
+    "destination": "/tools/botsify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/browse-ai-review/",
+    "destination": "/tools/browse-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/canopy-review/",
+    "destination": "/tools/canopy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/capsule-crm-review/",
+    "destination": "/tools/capsule-crm-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/caspio-review/",
+    "destination": "/tools/caspio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/clicksend-review/",
+    "destination": "/tools/clicksend-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/clipping-magic-review/",
+    "destination": "/tools/clipping-magic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/concord-review/",
+    "destination": "/tools/concord-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/creately-review/",
+    "destination": "/tools/creately-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/databox-review/",
+    "destination": "/tools/databox-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/demio-review/",
+    "destination": "/tools/demio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/emailoctopus-review/",
+    "destination": "/tools/emailoctopus-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/desktime-review/",
+    "destination": "/tools/desktime-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/durable-review/",
+    "destination": "/tools/durable-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/edesk-review/",
+    "destination": "/tools/edesk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/edureka-review/",
+    "destination": "/tools/edureka-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ablefy-review/",
+    "destination": "/tools/ablefy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/entrupy-review/",
+    "destination": "/tools/entrupy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/eztexting-review/",
+    "destination": "/tools/eztexting-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fastcomet-review/",
+    "destination": "/tools/fastcomet-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fcp-effects-review/",
+    "destination": "/tools/fcp-effects-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/finviz-review/",
+    "destination": "/tools/finviz-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/firstbase-review/",
+    "destination": "/tools/firstbase-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/auvik-review/",
+    "destination": "/tools/auvik-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/clickup-review/",
+    "destination": "/tools/clickup-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/krispcall-review/",
+    "destination": "/tools/krispcall-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dext-review/",
+    "destination": "/tools/dext-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/brand24-review/",
+    "destination": "/tools/brand24-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tax1099-review/",
+    "destination": "/tools/tax1099-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pipelinepro-review/",
+    "destination": "/tools/pipelinepro-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/castmagic-review/",
+    "destination": "/tools/castmagic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pandadoc-review/",
+    "destination": "/tools/pandadoc-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lusha-review/",
+    "destination": "/tools/lusha-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/todoist-review/",
+    "destination": "/tools/todoist-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/thinkific-review/",
+    "destination": "/tools/thinkific-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hotjar-review/",
+    "destination": "/tools/hotjar-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/plesk-review/",
+    "destination": "/tools/plesk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/factors-ai-review/",
+    "destination": "/tools/factors-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/close-crm-review-2/",
+    "destination": "/tools/close-crm-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vwo-review-2/",
+    "destination": "/tools/vwo-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/laxis-ai-review/",
+    "destination": "/tools/laxis-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/manychat-review-2/",
+    "destination": "/tools/manychat-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/botpress-review-2/",
+    "destination": "/tools/botpress-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/reclaim-ai-review-2/",
+    "destination": "/tools/reclaim-ai-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/printify-review-2/",
+    "destination": "/tools/printify-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/awesome-screenshot-review/",
+    "destination": "/tools/awesome-screenshot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/flywheel-review/",
+    "destination": "/tools/flywheel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fozzy-review/",
+    "destination": "/tools/fozzy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/frase-review/",
+    "destination": "/tools/frase-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/freightos-review/",
+    "destination": "/tools/freightos-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fusebox-review/",
+    "destination": "/tools/fusebox-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fyers-review/",
+    "destination": "/tools/fyers-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fyers-nri-review/",
+    "destination": "/tools/fyers-nri-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/googiehost-review/",
+    "destination": "/tools/googiehost-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/grammarly-review/",
+    "destination": "/tools/grammarly-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/harmonizely-review/",
+    "destination": "/tools/harmonizely-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/helpdesk-review/",
+    "destination": "/tools/helpdesk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hiver-review/",
+    "destination": "/tools/hiver-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hostnet-review/",
+    "destination": "/tools/hostnet-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hypefury-review/",
+    "destination": "/tools/hypefury-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hyros-review/",
+    "destination": "/tools/hyros-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ipburger-review/",
+    "destination": "/tools/ipburger-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/infomaniak-review/",
+    "destination": "/tools/infomaniak-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/insightful-review/",
+    "destination": "/tools/insightful-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/instapage-review/",
+    "destination": "/tools/instapage-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ipapi-review/",
+    "destination": "/tools/ipapi-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ispring-review/",
+    "destination": "/tools/ispring-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/italki-review/",
+    "destination": "/tools/italki-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/jivochat-review/",
+    "destination": "/tools/jivochat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/justfit-review/",
+    "destination": "/tools/justfit-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/karbon-review/",
+    "destination": "/tools/karbon-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kaspr-review/",
+    "destination": "/tools/kaspr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/keap-review/",
+    "destination": "/tools/keap-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lenovo-review/",
+    "destination": "/tools/lenovo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lets-enhance-review/",
+    "destination": "/tools/lets-enhance-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/longshot-review/",
+    "destination": "/tools/longshot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/magai-review/",
+    "destination": "/tools/magai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mangools-review/",
+    "destination": "/tools/mangools-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/milesweb-review/",
+    "destination": "/tools/milesweb-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mobilemonkey-review/",
+    "destination": "/tools/mobilemonkey-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/myaskai-review/",
+    "destination": "/tools/myaskai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/name-com-review/",
+    "destination": "/tools/name-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/network-solutions-review/",
+    "destination": "/tools/network-solutions-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/newchic-review/",
+    "destination": "/tools/newchic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/nightwatch-review/",
+    "destination": "/tools/nightwatch-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/nordvpn-review/",
+    "destination": "/tools/nordvpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/one-click-root-review/",
+    "destination": "/tools/one-click-root-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/oneup-review/",
+    "destination": "/tools/oneup-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ora-review/",
+    "destination": "/tools/ora-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pagemaker-review/",
+    "destination": "/tools/pagemaker-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/palette-review/",
+    "destination": "/tools/palette-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/panda-vpn-review/",
+    "destination": "/tools/panda-vpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/papaya-global-review/",
+    "destination": "/tools/papaya-global-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/parallels-review/",
+    "destination": "/tools/parallels-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/phot-ai-review/",
+    "destination": "/tools/phot-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/photogrid-review/",
+    "destination": "/tools/photogrid-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/placid-review/",
+    "destination": "/tools/placid-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/planet-hoster-review/",
+    "destination": "/tools/planet-hoster-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/podcastle-review/",
+    "destination": "/tools/podcastle-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/podia-review/",
+    "destination": "/tools/podia-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/popads-review/",
+    "destination": "/tools/popads-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/popl-review/",
+    "destination": "/tools/popl-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/poplin-review/",
+    "destination": "/tools/poplin-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/powr-review/",
+    "destination": "/tools/powr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/predis-ai-review/",
+    "destination": "/tools/predis-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pretty-links-review/",
+    "destination": "/tools/pretty-links-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/privado-vpn-review/",
+    "destination": "/tools/privado-vpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/project-co-review/",
+    "destination": "/tools/project-co-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/propmoney-review/",
+    "destination": "/tools/propmoney-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/protonvpn-review/",
+    "destination": "/tools/protonvpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/publer-review/",
+    "destination": "/tools/publer-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/remote-review/",
+    "destination": "/tools/remote-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/repurpose-io-review/",
+    "destination": "/tools/repurpose-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/reservio-review/",
+    "destination": "/tools/reservio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/restream-review/",
+    "destination": "/tools/restream-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/privado-review/",
+    "destination": "/tools/privado-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kitchen-co-review/",
+    "destination": "/tools/kitchen-co-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/roadtrippers-review/",
+    "destination": "/tools/roadtrippers-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/scalacube-review/",
+    "destination": "/tools/scalacube-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/scraperapi-review/",
+    "destination": "/tools/scraperapi-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/scribie-review/",
+    "destination": "/tools/scribie-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/se-ranking-review/",
+    "destination": "/tools/se-ranking-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sembly-review/",
+    "destination": "/tools/sembly-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/shopline-review/",
+    "destination": "/tools/shopline-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/shortstack-review/",
+    "destination": "/tools/shortstack-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/simplified-review/",
+    "destination": "/tools/simplified-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/siter-io-review/",
+    "destination": "/tools/siter-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sleek-review/",
+    "destination": "/tools/sleek-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smartproxy-review/",
+    "destination": "/tools/smartproxy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smartsupp-review/",
+    "destination": "/tools/smartsupp-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/snov-io-review/",
+    "destination": "/tools/snov-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/softr-review/",
+    "destination": "/tools/softr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/solutionreach-review/",
+    "destination": "/tools/solutionreach-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/squadcast-review/",
+    "destination": "/tools/squadcast-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/synthesia-review/",
+    "destination": "/tools/synthesia-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/systeme-io-review/",
+    "destination": "/tools/systeme-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/taplink-review/",
+    "destination": "/tools/taplink-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tcc-teacher-career-coach-review/",
+    "destination": "/tools/tcc-teacher-career-coach-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/teamgantt-review/",
+    "destination": "/tools/teamgantt-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/the-map-store-review/",
+    "destination": "/tools/the-map-store-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tickmill-review/",
+    "destination": "/tools/tickmill-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tidio-review/",
+    "destination": "/tools/tidio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tilda-review/",
+    "destination": "/tools/tilda-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/toggl-time-tracking-review/",
+    "destination": "/tools/toggl-time-tracking-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tolt-review/",
+    "destination": "/tools/tolt-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/topol-email-editor-review/",
+    "destination": "/tools/topol-email-editor-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/trade-com-review/",
+    "destination": "/tools/trade-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/trengo-review/",
+    "destination": "/tools/trengo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/turbologo-review/",
+    "destination": "/tools/turbologo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/typeform-review/",
+    "destination": "/tools/typeform-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ugreen-review/",
+    "destination": "/tools/ugreen-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uizard-review/",
+    "destination": "/tools/uizard-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/upstox-review/",
+    "destination": "/tools/upstox-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/virtuagym-review/",
+    "destination": "/tools/virtuagym-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/visitor-queue-review/",
+    "destination": "/tools/visitor-queue-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/visualcv-review/",
+    "destination": "/tools/visualcv-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mixmax-review/",
+    "destination": "/tools/mixmax-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/outgrow-review/",
+    "destination": "/tools/outgrow-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wave-video-review/",
+    "destination": "/tools/wave-video-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/webceo-review/",
+    "destination": "/tools/webceo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wordai-review/",
+    "destination": "/tools/wordai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wyzant-review/",
+    "destination": "/tools/wyzant-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zoogvpn-review/",
+    "destination": "/tools/zoogvpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zoominfo-review/",
+    "destination": "/tools/zoominfo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/chatbot-review/",
+    "destination": "/tools/chatbot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hyperise-review/",
+    "destination": "/tools/hyperise-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/linkbox-review/",
+    "destination": "/tools/linkbox-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/supersaas-review/",
+    "destination": "/tools/supersaas-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/justcall-review/",
+    "destination": "/tools/justcall-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/make-com-review/",
+    "destination": "/tools/make-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/froxy-review/",
+    "destination": "/tools/froxy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/postmark-review/",
+    "destination": "/tools/postmark-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smartscout-review/",
+    "destination": "/tools/smartscout-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rank-math-review/",
+    "destination": "/tools/rank-math-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/strikingly-review/",
+    "destination": "/tools/strikingly-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/growth-x-review/",
+    "destination": "/tools/growth-x-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uptimerobot-review/",
+    "destination": "/tools/uptimerobot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/benchmark-email-review/",
+    "destination": "/tools/benchmark-email-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vexels-review/",
+    "destination": "/tools/vexels-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/respondent-review/",
+    "destination": "/tools/respondent-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/spokeo-review/",
+    "destination": "/tools/spokeo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cometchat-review/",
+    "destination": "/tools/cometchat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ticket-tailor-review/",
+    "destination": "/tools/ticket-tailor-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/artisan-review/",
+    "destination": "/tools/artisan-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/promeai-review/",
+    "destination": "/tools/promeai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/protopie-review/",
+    "destination": "/tools/protopie-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/enviz-review/",
+    "destination": "/tools/enviz-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sellfy-review/",
+    "destination": "/tools/sellfy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gelato-review/",
+    "destination": "/tools/gelato-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wati-review/",
+    "destination": "/tools/wati-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/simpletexting-review/",
+    "destination": "/tools/simpletexting-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kartra-review/",
+    "destination": "/tools/kartra-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/notion-review/",
+    "destination": "/tools/notion-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/connecteam-review/",
+    "destination": "/tools/connecteam-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lemlist-review/",
+    "destination": "/tools/lemlist-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/logoai-review/",
+    "destination": "/tools/logoai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hostpapa-review/",
+    "destination": "/tools/hostpapa-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/builtwith-review/",
+    "destination": "/tools/builtwith-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/protonmail-review/",
+    "destination": "/tools/protonmail-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/astra-review/",
+    "destination": "/tools/astra-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/generatepress-review/",
+    "destination": "/tools/generatepress-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vonage-review/",
+    "destination": "/tools/vonage-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/squid-proxies-review/",
+    "destination": "/tools/squid-proxies-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/simplybook-review/",
+    "destination": "/tools/simplybook-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ekm-review/",
+    "destination": "/tools/ekm-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/goodsync-review/",
+    "destination": "/tools/goodsync-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/adsterra-review/",
+    "destination": "/tools/adsterra-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/manatal-review/",
+    "destination": "/tools/manatal-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wishup-review/",
+    "destination": "/tools/wishup-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/radical-storage-review/",
+    "destination": "/tools/radical-storage-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/startinfinity-review/",
+    "destination": "/tools/startinfinity-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/roboform-review/",
+    "destination": "/tools/roboform-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tailorbrands-review/",
+    "destination": "/tools/tailorbrands-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mailersend-review/",
+    "destination": "/tools/mailersend-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gaia-review/",
+    "destination": "/tools/gaia-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/proxy-sale-review/",
+    "destination": "/tools/proxy-sale-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/qrcode-ai-review/",
+    "destination": "/tools/qrcode-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/collectchat-review/",
+    "destination": "/tools/collectchat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/monetizemore-review/",
+    "destination": "/tools/monetizemore-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/itch-io-review/",
+    "destination": "/tools/itch-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/payhip-review/",
+    "destination": "/tools/payhip-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/returngo-review/",
+    "destination": "/tools/returngo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/iconosquare-review/",
+    "destination": "/tools/iconosquare-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/guruwalk-review/",
+    "destination": "/tools/guruwalk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/whatsform-review/",
+    "destination": "/tools/whatsform-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/teemill-review/",
+    "destination": "/tools/teemill-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/authory-review/",
+    "destination": "/tools/authory-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/elephant-ai-review/",
+    "destination": "/tools/elephant-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/instantly-ai-review/",
+    "destination": "/tools/instantly-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/leetcode-wizard-review/",
+    "destination": "/tools/leetcode-wizard-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/radaar-review/",
+    "destination": "/tools/radaar-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/defendershield-review/",
+    "destination": "/tools/defendershield-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/closely-hq-review/",
+    "destination": "/tools/closely-hq-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/crowdspring-review/",
+    "destination": "/tools/crowdspring-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sploot-review/",
+    "destination": "/tools/sploot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dsers-review/",
+    "destination": "/tools/dsers-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fatjoe-review/",
+    "destination": "/tools/fatjoe-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/folk-review/",
+    "destination": "/tools/folk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/the-swarm-review/",
+    "destination": "/tools/the-swarm-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/blogpro-review/",
+    "destination": "/tools/blogpro-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/paylocity-review/",
+    "destination": "/tools/paylocity-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hostwinds-review/",
+    "destination": "/tools/hostwinds-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/elevo-learning-review/",
+    "destination": "/tools/elevo-learning-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/quartile-review/",
+    "destination": "/tools/quartile-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fifacoin-review/",
+    "destination": "/tools/fifacoin-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/iubenda-review/",
+    "destination": "/tools/iubenda-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/duckbill-review/",
+    "destination": "/tools/duckbill-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sendpulse-review/",
+    "destination": "/tools/sendpulse-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bouncer-review/",
+    "destination": "/tools/bouncer-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/autoblogging-review/",
+    "destination": "/tools/autoblogging-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/harpoon-review/",
+    "destination": "/tools/harpoon-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/post-planner-review/",
+    "destination": "/tools/post-planner-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smarterqueue-review/",
+    "destination": "/tools/smarterqueue-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/scdkey-review/",
+    "destination": "/tools/scdkey-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ueni-review/",
+    "destination": "/tools/ueni-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cooee-review/",
+    "destination": "/tools/cooee-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/classin-review/",
+    "destination": "/tools/classin-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tracknow-review/",
+    "destination": "/tools/tracknow-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/scrapingbee-review/",
+    "destination": "/tools/scrapingbee-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/faceup-review/",
+    "destination": "/tools/faceup-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/checkout-page-review/",
+    "destination": "/tools/checkout-page-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/listnr-review/",
+    "destination": "/tools/listnr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/testimonial-to-review/",
+    "destination": "/tools/testimonial-to-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rescuetime-review/",
+    "destination": "/tools/rescuetime-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/beaver-builder-review/",
+    "destination": "/tools/beaver-builder-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/blaze-ai-review/",
+    "destination": "/tools/blaze-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rapyd-review/",
+    "destination": "/tools/rapyd-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aimlapi-review/",
+    "destination": "/tools/aimlapi-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/listnr-review-2/",
+    "destination": "/tools/listnr-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/FktHdsHG4io_thumb.jpg/",
+    "destination": "/tools/iubenda-video-3",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/GC5hB7TzDU4_thumb.jpg/",
+    "destination": "/tools/blaze-ai-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/IXtaw5GzVlw_thumb.jpg/",
+    "destination": "/tools/seoclerk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/zdzB0IG6uG0_thumb.jpg/",
+    "destination": "/tools/englishdom-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/5yUp7LrfsZI_thumb.jpg/",
+    "destination": "/tools/factors-ai-video-3",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/QKXfUeXE1s8_thumb.jpg/",
+    "destination": "/tools/treehouse-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/EKxeeB7JZ4w_thumb.jpg/",
+    "destination": "/tools/coda-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/DxTScIIC-YI_thumb.jpg/",
+    "destination": "/tools/hidemyip-proxy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/r-upRahTZ1s_thumb.jpg/",
+    "destination": "/tools/muck-rack-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/moiJljj004g_thumb.jpg/",
+    "destination": "/tools/boast-io-video-4",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/buddy-punch-review/",
+    "destination": "/tools/buddy-punch-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/stripo-review/",
+    "destination": "/tools/stripo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/service-fusion-logo.png/",
+    "destination": "/tools/wask-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wp-content/uploads/2026/05/service-fusion-video-1.jpg/",
+    "destination": "/tools/fomo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/servicefusion-review/",
+    "destination": "/tools/servicefusion-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hidemyip-review/",
+    "destination": "/tools/hidemyip-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/product/muckrack-review/",
+    "destination": "/tools/muckrack-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mindrift-review/",
+    "destination": "/tools/mindrift-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wealthy-affiliate-review/",
+    "destination": "/tools/wealthy-affiliate-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ikhokha-review/",
+    "destination": "/tools/ikhokha-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/proxify-review/",
+    "destination": "/tools/proxify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/brian-tracy-review/",
+    "destination": "/tools/brian-tracy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/proranktracker-review/",
+    "destination": "/tools/proranktracker-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/eprolo-review/",
+    "destination": "/tools/eprolo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/servicetitan-review/",
+    "destination": "/tools/servicetitan-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/backblaze-review/",
+    "destination": "/tools/backblaze-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/less-annoying-crm-review/",
+    "destination": "/tools/less-annoying-crm-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rebuy-engine-review/",
+    "destination": "/tools/rebuy-engine-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/claid-ai-review/",
+    "destination": "/tools/claid-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/piano-marvel-review/",
+    "destination": "/tools/piano-marvel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tomtop-review/",
+    "destination": "/tools/tomtop-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ninjaproxy-review/",
+    "destination": "/tools/ninjaproxy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/swiftreg-review/",
+    "destination": "/tools/swiftreg-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/desku-review/",
+    "destination": "/tools/desku-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/elai-io-review/",
+    "destination": "/tools/elai-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/safelinku-review/",
+    "destination": "/tools/safelinku-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/glorify-review/",
+    "destination": "/tools/glorify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fabric-so-review/",
+    "destination": "/tools/fabric-so-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/scalenut-review/",
+    "destination": "/tools/scalenut-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fusion-markets-review/",
+    "destination": "/tools/fusion-markets-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/guesty-review/",
+    "destination": "/tools/guesty-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lunaproxy-review/",
+    "destination": "/tools/lunaproxy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/customgpt-ai-review/",
+    "destination": "/tools/customgpt-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fathom-review/",
+    "destination": "/tools/fathom-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ringover-review/",
+    "destination": "/tools/ringover-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/heygen-review/",
+    "destination": "/tools/heygen-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/contentstudio-review/",
+    "destination": "/tools/contentstudio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cognito-forms-review/",
+    "destination": "/tools/cognito-forms-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/basedlabs-review/",
+    "destination": "/tools/basedlabs-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gearbest-review/",
+    "destination": "/tools/gearbest-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/prizerebel-review/",
+    "destination": "/tools/prizerebel-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sketchnote-review/",
+    "destination": "/tools/sketchnote-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/getimg-review/",
+    "destination": "/tools/getimg-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sage-hr-review/",
+    "destination": "/tools/sage-hr-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/easy-peasy-ai-review/",
+    "destination": "/tools/easy-peasy-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ai-bypass-review/",
+    "destination": "/tools/ai-bypass-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/deepbrain-ai-review/",
+    "destination": "/tools/deepbrain-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/speak-ai-review/",
+    "destination": "/tools/speak-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/activecampaign-review/",
+    "destination": "/tools/activecampaign-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/smart-vpn-review/",
+    "destination": "/tools/smart-vpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/stealthgpt-review/",
+    "destination": "/tools/stealthgpt-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/voiceflow-review/",
+    "destination": "/tools/voiceflow-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/villiers-jets-review/",
+    "destination": "/tools/villiers-jets-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/setmore-review/",
+    "destination": "/tools/setmore-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/timetastic-review/",
+    "destination": "/tools/timetastic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vpn-unlimited-review/",
+    "destination": "/tools/vpn-unlimited-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/imagine-art-review/",
+    "destination": "/tools/imagine-art-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tawk-to-review/",
+    "destination": "/tools/tawk-to-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/filemail-review/",
+    "destination": "/tools/filemail-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/signable-review/",
+    "destination": "/tools/signable-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/veepn-review/",
+    "destination": "/tools/veepn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ioctopus-review/",
+    "destination": "/tools/ioctopus-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/talentlms-review/",
+    "destination": "/tools/talentlms-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vectorstock-review/",
+    "destination": "/tools/vectorstock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/photo-ai-review/",
+    "destination": "/tools/photo-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ionos-review/",
+    "destination": "/tools/ionos-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/upgrad-review/",
+    "destination": "/tools/upgrad-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/saily-review/",
+    "destination": "/tools/saily-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/jotform-review/",
+    "destination": "/tools/jotform-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hix-ai-review/",
+    "destination": "/tools/hix-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/superbuy-review/",
+    "destination": "/tools/superbuy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/originality-ai-review/",
+    "destination": "/tools/originality-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/erase-bg-review/",
+    "destination": "/tools/erase-bg-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pcloud-review/",
+    "destination": "/tools/pcloud-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/topcashback-review/",
+    "destination": "/tools/topcashback-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vidiq-review/",
+    "destination": "/tools/vidiq-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/swagbucks-review/",
+    "destination": "/tools/swagbucks-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/writehuman-ai-review/",
+    "destination": "/tools/writehuman-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/julius-ai-review/",
+    "destination": "/tools/julius-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/glide-review/",
+    "destination": "/tools/glide-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/clockify-review/",
+    "destination": "/tools/clockify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aomei-review/",
+    "destination": "/tools/aomei-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cloudways-review/",
+    "destination": "/tools/cloudways-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/planet-vpn-review/",
+    "destination": "/tools/planet-vpn-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/shiprocket-review/",
+    "destination": "/tools/shiprocket-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/onlyoffice-review/",
+    "destination": "/tools/onlyoffice-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/remove-bg-review/",
+    "destination": "/tools/remove-bg-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/10web-review/",
+    "destination": "/tools/10web-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/1-800-pack-rat-review/",
+    "destination": "/tools/1-800-pack-rat-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/a-premium-auto-parts-review/",
+    "destination": "/tools/a-premium-auto-parts-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/abcya-review/",
+    "destination": "/tools/abcya-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/absence-io-review/",
+    "destination": "/tools/absence-io-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/acebeam-review/",
+    "destination": "/tools/acebeam-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aiper-review/",
+    "destination": "/tools/aiper-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bearaby-review/",
+    "destination": "/tools/bearaby-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/airwallex-review/",
+    "destination": "/tools/airwallex-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/beauty-forever-hair-review/",
+    "destination": "/tools/beauty-forever-hair-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bestvibe-uk-review/",
+    "destination": "/tools/bestvibe-uk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bestvibe-us-review/",
+    "destination": "/tools/bestvibe-us-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/binge-movies-tv-review/",
+    "destination": "/tools/binge-movies-tv-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/biocare-review/",
+    "destination": "/tools/biocare-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/blinkist-us-review/",
+    "destination": "/tools/blinkist-us-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/blu-dot-review/",
+    "destination": "/tools/blu-dot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/akko-review/",
+    "destination": "/tools/akko-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bluetti-de-review/",
+    "destination": "/tools/bluetti-de-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bluetti-es-review/",
+    "destination": "/tools/bluetti-es-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bluetti-it-review/",
+    "destination": "/tools/bluetti-it-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bluetti-us-review/",
+    "destination": "/tools/bluetti-us-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/bosleymd-review/",
+    "destination": "/tools/bosleymd-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/box-inc-review/",
+    "destination": "/tools/box-inc-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/boxup-review/",
+    "destination": "/tools/boxup-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/braun-lazmall-singapore-review/",
+    "destination": "/tools/braun-lazmall-singapore-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/brightside-review/",
+    "destination": "/tools/brightside-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aliexpress-review/",
+    "destination": "/tools/aliexpress-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/british-council-english-online-review/",
+    "destination": "/tools/british-council-english-online-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/alliance-virtual-offices-review/",
+    "destination": "/tools/alliance-virtual-offices-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/alpinestars-review/",
+    "destination": "/tools/alpinestars-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aofit-review/",
+    "destination": "/tools/aofit-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/apollo-neuroscience-review/",
+    "destination": "/tools/apollo-neuroscience-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/byre-review/",
+    "destination": "/tools/byre-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ca-roborock-review/",
+    "destination": "/tools/ca-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cambodia-angkor-air-review/",
+    "destination": "/tools/cambodia-angkor-air-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/careerist-review/",
+    "destination": "/tools/careerist-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cariloha-review/",
+    "destination": "/tools/cariloha-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/appsumo-review/",
+    "destination": "/tools/appsumo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/catlink-review/",
+    "destination": "/tools/catlink-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ccell-review/",
+    "destination": "/tools/ccell-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/charlemange-review/",
+    "destination": "/tools/charlemange-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/chow-tai-fook-review/",
+    "destination": "/tools/chow-tai-fook-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cinch-review/",
+    "destination": "/tools/cinch-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/codashop-review/",
+    "destination": "/tools/codashop-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aqua-hotel-group-review/",
+    "destination": "/tools/aqua-hotel-group-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/cometeer-review/",
+    "destination": "/tools/cometeer-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/confetti-review/",
+    "destination": "/tools/confetti-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/coop-review/",
+    "destination": "/tools/coop-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/costway-ca-review/",
+    "destination": "/tools/costway-ca-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/covers-and-all-review/",
+    "destination": "/tools/covers-and-all-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ulike-review/",
+    "destination": "/tools/ulike-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/artis-brushes-review/",
+    "destination": "/tools/artis-brushes-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/daily-high-club-review/",
+    "destination": "/tools/daily-high-club-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/de-roborock-review/",
+    "destination": "/tools/de-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dhgate-review/",
+    "destination": "/tools/dhgate-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/audeze-review/",
+    "destination": "/tools/audeze-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/doze-review/",
+    "destination": "/tools/doze-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dreame-us-review/",
+    "destination": "/tools/dreame-us-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wordpress-com-review/",
+    "destination": "/tools/wordpress-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/woocommerce-review/",
+    "destination": "/tools/woocommerce-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/jetpack-review/",
+    "destination": "/tools/jetpack-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pressable-review/",
+    "destination": "/tools/pressable-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/crazy-domains-review/",
+    "destination": "/tools/crazy-domains-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/azuline-hotels-review/",
+    "destination": "/tools/azuline-hotels-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/barabas-review/",
+    "destination": "/tools/barabas-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/enhanced-labs-review/",
+    "destination": "/tools/enhanced-labs-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/envato-market-review/",
+    "destination": "/tools/envato-market-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/epos-now-review/",
+    "destination": "/tools/epos-now-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/equitynet-review/",
+    "destination": "/tools/equitynet-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vevor-mx-review/",
+    "destination": "/tools/vevor-mx-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vevor-nl-review/",
+    "destination": "/tools/vevor-nl-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vevor-pl-review/",
+    "destination": "/tools/vevor-pl-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vevor-us-review/",
+    "destination": "/tools/vevor-us-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vida-glow-au-review/",
+    "destination": "/tools/vida-glow-au-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vida-glow-us-review/",
+    "destination": "/tools/vida-glow-us-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/video-studio-review/",
+    "destination": "/tools/video-studio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vita-bella-review/",
+    "destination": "/tools/vita-bella-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/voila-review/",
+    "destination": "/tools/voila-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wacom-review/",
+    "destination": "/tools/wacom-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/walkingpad-review/",
+    "destination": "/tools/walkingpad-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/waterdrop-filter-review/",
+    "destination": "/tools/waterdrop-filter-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/webroot-review/",
+    "destination": "/tools/webroot-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/welcome-hotels-review/",
+    "destination": "/tools/welcome-hotels-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wellfit-walking-pad-review/",
+    "destination": "/tools/wellfit-walking-pad-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wild-yak-inc-review/",
+    "destination": "/tools/wild-yak-inc-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/withlove-review/",
+    "destination": "/tools/withlove-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wolf-and-badger-review/",
+    "destination": "/tools/wolf-and-badger-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wuka-review/",
+    "destination": "/tools/wuka-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tailwind-review/",
+    "destination": "/tools/tailwind-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/the-economist-review/",
+    "destination": "/tools/the-economist-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/the-game-headwear-review/",
+    "destination": "/tools/the-game-headwear-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/thin-lizzy-review/",
+    "destination": "/tools/thin-lizzy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/thinkcar-review/",
+    "destination": "/tools/thinkcar-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/thryv-review-2/",
+    "destination": "/tools/thryv-review-2",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/token-metrics-review/",
+    "destination": "/tools/token-metrics-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/trafft-review/",
+    "destination": "/tools/trafft-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/tribesigns-review/",
+    "destination": "/tools/tribesigns-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/trinka-ai-review/",
+    "destination": "/tools/trinka-ai-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/turtle-beach-review/",
+    "destination": "/tools/turtle-beach-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ubersuggest-review/",
+    "destination": "/tools/ubersuggest-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uk-rugby-store-review/",
+    "destination": "/tools/uk-rugby-store-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ultenic-review/",
+    "destination": "/tools/ultenic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wellfit-treadmill-review/",
+    "destination": "/tools/wellfit-treadmill-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/umbo-review/",
+    "destination": "/tools/umbo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/duda-review/",
+    "destination": "/tools/duda-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dusit-hotels-resorts-review/",
+    "destination": "/tools/dusit-hotels-resorts-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dymocks-review/",
+    "destination": "/tools/dymocks-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/easirent-review/",
+    "destination": "/tools/easirent-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/education-com-review/",
+    "destination": "/tools/education-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/edx-review/",
+    "destination": "/tools/edx-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/emeet-review/",
+    "destination": "/tools/emeet-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/endoca-review/",
+    "destination": "/tools/endoca-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/firmoo-review/",
+    "destination": "/tools/firmoo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fitville-review/",
+    "destination": "/tools/fitville-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/flowerchimp-review/",
+    "destination": "/tools/flowerchimp-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fifo-review/",
+    "destination": "/tools/fifo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fofana-review/",
+    "destination": "/tools/fofana-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/freaks-of-nature-review/",
+    "destination": "/tools/freaks-of-nature-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/freedom-review/",
+    "destination": "/tools/freedom-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/freetaxusa-review/",
+    "destination": "/tools/freetaxusa-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fridayparts-review/",
+    "destination": "/tools/fridayparts-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/funwhole-review/",
+    "destination": "/tools/funwhole-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gamivo-review/",
+    "destination": "/tools/gamivo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/geekbuying-review/",
+    "destination": "/tools/geekbuying-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/monument-grills-review/",
+    "destination": "/tools/monument-grills-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/getabstract-review/",
+    "destination": "/tools/getabstract-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gigsky-review/",
+    "destination": "/tools/gigsky-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/glowforge-review/",
+    "destination": "/tools/glowforge-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gotrax-ca-review/",
+    "destination": "/tools/gotrax-ca-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gourmet-gift-baskets-review/",
+    "destination": "/tools/gourmet-gift-baskets-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gusto-review/",
+    "destination": "/tools/gusto-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/heart-soil-review/",
+    "destination": "/tools/heart-soil-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hermosa-review/",
+    "destination": "/tools/hermosa-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hizero-review/",
+    "destination": "/tools/hizero-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hohem-review/",
+    "destination": "/tools/hohem-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/hostgator-review/",
+    "destination": "/tools/hostgator-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ixl-review/",
+    "destination": "/tools/ixl-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/jalbum-review/",
+    "destination": "/tools/jalbum-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/koolay-review/",
+    "destination": "/tools/koolay-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/lucidlink-review/",
+    "destination": "/tools/lucidlink-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/magic-keys-review/",
+    "destination": "/tools/magic-keys-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/melio-review/",
+    "destination": "/tools/melio-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/micas-review/",
+    "destination": "/tools/micas-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/mitigately-review/",
+    "destination": "/tools/mitigately-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/nextiva-review/",
+    "destination": "/tools/nextiva-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/omnisend-review/",
+    "destination": "/tools/omnisend-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/national-personal-training-institute-review/",
+    "destination": "/tools/national-personal-training-institute-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pacdora-review/",
+    "destination": "/tools/pacdora-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/picsart-review/",
+    "destination": "/tools/picsart-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pinwheel-kids-and-teens-phone-review/",
+    "destination": "/tools/pinwheel-kids-and-teens-phone-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/popilush-review/",
+    "destination": "/tools/popilush-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/postermywall-review/",
+    "destination": "/tools/postermywall-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/preply-review/",
+    "destination": "/tools/preply-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/rosetta-stone-review/",
+    "destination": "/tools/rosetta-stone-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sider-review/",
+    "destination": "/tools/sider-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/sintra-review/",
+    "destination": "/tools/sintra-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/spotahome-review/",
+    "destination": "/tools/spotahome-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/stellarwp-review/",
+    "destination": "/tools/stellarwp-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/streamlabs-review/",
+    "destination": "/tools/streamlabs-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/es-roborock-review/",
+    "destination": "/tools/es-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/esim-japan-review/",
+    "destination": "/tools/esim-japan-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/esim-korea-review/",
+    "destination": "/tools/esim-korea-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/esim-singapore-review/",
+    "destination": "/tools/esim-singapore-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/esim-thailand-review/",
+    "destination": "/tools/esim-thailand-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/esim-usa-review/",
+    "destination": "/tools/esim-usa-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fr-roborock-review/",
+    "destination": "/tools/fr-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/eureka-eu-review/",
+    "destination": "/tools/eureka-eu-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ever-pretty-review/",
+    "destination": "/tools/ever-pretty-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/factor-nl-review/",
+    "destination": "/tools/factor-nl-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/faire-wholesale-review/",
+    "destination": "/tools/faire-wholesale-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ferrari-world-abu-dhabi-review/",
+    "destination": "/tools/ferrari-world-abu-dhabi-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fi-roborock-review/",
+    "destination": "/tools/fi-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/finom-france-review/",
+    "destination": "/tools/finom-france-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/finom-germany-review/",
+    "destination": "/tools/finom-germany-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/finom-italy-review/",
+    "destination": "/tools/finom-italy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/finom-netherlands-review/",
+    "destination": "/tools/finom-netherlands-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/firmoo-uk-review/",
+    "destination": "/tools/firmoo-uk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fitville-de-review/",
+    "destination": "/tools/fitville-de-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/fitville-uk-review/",
+    "destination": "/tools/fitville-uk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/timify-review/",
+    "destination": "/tools/timify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/xero-review/",
+    "destination": "/tools/xero-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/boost-commerce-review/",
+    "destination": "/tools/boost-commerce-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/seotool-adda-review/",
+    "destination": "/tools/seotool-adda-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/xgimi-review/",
+    "destination": "/tools/xgimi-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/se-roborock-review/",
+    "destination": "/tools/se-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/decktopus-review/",
+    "destination": "/tools/decktopus-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/gmass-review/",
+    "destination": "/tools/gmass-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/docsend-review/",
+    "destination": "/tools/docsend-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/domo-review/",
+    "destination": "/tools/domo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aiseo-review/",
+    "destination": "/tools/aiseo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/namesilo-review/",
+    "destination": "/tools/namesilo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/callhippo-review/",
+    "destination": "/tools/callhippo-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/graphy-review/",
+    "destination": "/tools/graphy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/trip-com-review/",
+    "destination": "/tools/trip-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/expensify-review/",
+    "destination": "/tools/expensify-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/verv-review/",
+    "destination": "/tools/verv-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vegas-com-review/",
+    "destination": "/tools/vegas-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uslegalforms-review/",
+    "destination": "/tools/uslegalforms-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/roborock-review/",
+    "destination": "/tools/roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/pl-roborock-review/",
+    "destination": "/tools/pl-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/it-roborock-review/",
+    "destination": "/tools/it-roborock-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/kkday-review/",
+    "destination": "/tools/kkday-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/myoutdesk-review/",
+    "destination": "/tools/myoutdesk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/impact-com-review/",
+    "destination": "/tools/impact-com-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/automattic-review/",
+    "destination": "/tools/automattic-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/easeus-review/",
+    "destination": "/tools/easeus-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/dyson-indonesia-review/",
+    "destination": "/tools/dyson-indonesia-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/alpinestars-france-review/",
+    "destination": "/tools/alpinestars-france-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/alpinestars-italy-review/",
+    "destination": "/tools/alpinestars-italy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/alpinestars-uk-review/",
+    "destination": "/tools/alpinestars-uk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/aiper-australia-review/",
+    "destination": "/tools/aiper-australia-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/engwe-bikes-uk-review/",
+    "destination": "/tools/engwe-bikes-uk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/engwe-bikes-review/",
+    "destination": "/tools/engwe-bikes-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/engwe-bikes-de-review/",
+    "destination": "/tools/engwe-bikes-de-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/eufy-review/",
+    "destination": "/tools/eufy-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ulike-france-review/",
+    "destination": "/tools/ulike-france-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ulike-uk-review/",
+    "destination": "/tools/ulike-uk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/big-cash-review/",
+    "destination": "/tools/big-cash-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/eco-worthy-de-review/",
+    "destination": "/tools/eco-worthy-de-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/envato-placeit-review/",
+    "destination": "/tools/envato-placeit-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/imyfone-review/",
+    "destination": "/tools/imyfone-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/journey-by-mediavine-review/",
+    "destination": "/tools/journey-by-mediavine-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/wordperfect-review/",
+    "destination": "/tools/wordperfect-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/umbra-review/",
+    "destination": "/tools/umbra-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/unice-review/",
+    "destination": "/tools/unice-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/unipin-review/",
+    "destination": "/tools/unipin-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/uniwigs-review/",
+    "destination": "/tools/uniwigs-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vego-garden-review/",
+    "destination": "/tools/vego-garden-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/vertu-review/",
+    "destination": "/tools/vertu-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/thin-lizzy-nz-review/",
+    "destination": "/tools/thin-lizzy-nz-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/turtle-beach-us-review/",
+    "destination": "/tools/turtle-beach-us-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/ugreen-uk-review/",
+    "destination": "/tools/ugreen-uk-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/xpluswear-review/",
+    "destination": "/tools/xpluswear-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/zonli-review/",
+    "destination": "/tools/zonli-review",
+    "permanent": true,
+    "type": "businesstool"
+  },
+  {
+    "source": "/privacy-policy/",
+    "destination": "/privacy-policy",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/home/",
+    "destination": "/",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/terms-of-use/",
+    "destination": "/terms-of-use",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/deel/",
+    "destination": "/go/deel",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/helium-10-lead-magnet/",
+    "destination": "/go/deel",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/getyourguide-lead-page/",
+    "destination": "/go/deel",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/deel-lead-thank-you-page-instantform/",
+    "destination": "/go/deel/thank-you",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/helium10-lead-thank-you-page/",
+    "destination": "/go/deel/thank-you",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/getyourguide-lead-thank-you-page/",
+    "destination": "/go/deel/thank-you",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/small-business-tools/",
+    "destination": "/small-business-tools",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/blogs/",
+    "destination": "/blogs",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/affiliate-disclosure/",
+    "destination": "/affiliate-disclosure",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/general-disclosures/",
+    "destination": "/general-disclosures",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/contact-us/",
+    "destination": "/contact-us",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/business-tools/",
+    "destination": "/business-tools",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/about-us/",
+    "destination": "/about-us",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/earning-disclaimer/",
+    "destination": "/earning-disclaimer",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/workshop/",
+    "destination": "/workshop",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/highlevel/",
+    "destination": "/go/deel/thank-you",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/crm/",
+    "destination": "/crm",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/gohighlevel/",
+    "destination": "/go/deel/thank-you",
+    "permanent": true,
+    "type": "page"
+  },
+  {
+    "source": "/hello/",
+    "destination": "/blog/hello",
+    "permanent": true,
+    "type": "post"
+  }
+]
