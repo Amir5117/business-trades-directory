@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export function SiteFooter() {
   return (
@@ -6,7 +7,13 @@ export function SiteFooter() {
       <div className="container-tbt grid gap-8 py-12 sm:grid-cols-2 lg:grid-cols-4">
         <div>
           <div className="flex items-center gap-2 font-bold text-ink">
-            <span className="grid h-8 w-8 place-items-center rounded-lg bg-brand-500 text-white">T</span>
+            <Image
+              src="/logo.png"
+              alt="The Business Trades"
+              width={32}
+              height={32}
+              className="h-8 w-8 shrink-0"
+            />
             TheBusinessTrades
           </div>
           <p className="mt-3 text-sm text-muted">

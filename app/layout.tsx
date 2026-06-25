@@ -10,10 +10,12 @@ const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: `${SITE_NAME} — Honest SaaS & Business Tool Reviews`,
+    default: "The Business Trades | The Internet's Best Business Tools",
     template: `%s | ${SITE_NAME}`,
   },
   description: "Independent, in-depth reviews and comparisons of the best online business tools.",
+  // Favicon. app/icon.png is auto-served at /icon.png by Next's file convention; referenced explicitly here too.
+  icons: { icon: "/icon.png", shortcut: "/icon.png", apple: "/icon.png" },
   openGraph: { siteName: SITE_NAME, type: "website", url: SITE_URL },
   twitter: { card: "summary_large_image", site: "@thebusinesstrades" },
   robots: { index: true, follow: true },
